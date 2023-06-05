@@ -1,1 +1,1 @@
-The VB.NET Data Analysis Application is a versatile tool that allows users to import and analyze CSV datasets. With a user-friendly interface, the application provides a seamless experience for data manipulation and exploration. This project is built using the VB.NET programming language and utilizes various functionalities to facilitate efficient data analysis.
+
